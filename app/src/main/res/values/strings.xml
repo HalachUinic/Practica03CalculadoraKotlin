@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="usuario">Admin</string>
+    <string name="contraseña">1234</string>
+</resources>
